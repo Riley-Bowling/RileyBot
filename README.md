@@ -1,12 +1,15 @@
 <h1># RileyBot</h1>
-Omnipotent and incompetent. The first true AI.
+<h3>Omnipotent and incompetent. The first true AI.</h3>
 
 ---
-Unless stated otherwise code in this project was written by Riley Bowling, the creator of RileyBot.
+
+<h4>Unless stated otherwise code in this project was written by Riley Bowling.</h4>
+
 ---
 
-<h2>RileyBot is built to work with the Telegram chat client, it uses this great telegram api wrapper for python:
-https://github.com/python-telegram-bot/python-telegram-bot</h2>
+<h4>RileyBot is built to work with the Telegram chat client, it uses this great telegram api wrapper for python:</h4>
+  
+https://github.com/python-telegram-bot/python-telegram-bot
 
 ---
 

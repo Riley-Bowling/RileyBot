@@ -1,4 +1,4 @@
-<h1># RileyBot</h1>
+<h2># RileyBot</h2>
 
 <h4>Unless stated otherwise code in this project was written by Riley Bowling.</h4>
 
@@ -6,7 +6,7 @@
   
 https://github.com/python-telegram-bot/python-telegram-bot
 
-Everybody is free to use this code however they like, whether it <i>should</i> be used is up for debate
+<h4>Everybody is free to use this code however they like</h4>
 
 ___
 

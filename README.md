@@ -6,6 +6,8 @@
   
 https://github.com/python-telegram-bot/python-telegram-bot
 
+Everybody is free to use this code however they like, whether it <i>should</i> be used is up for debate
+
 ___
 
 botspeak.mp3, botspeak.wav and temp.wav are temporarily generated files used for the /speak command, they

@@ -1,5 +1,4 @@
 <h1># RileyBot</h1>
-<h3>Omnipotent and incompetent. The first true AI.</h3>
 
 ---
 
